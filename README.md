@@ -1,5 +1,5 @@
 # bouncing-ball-game
-This is a simple bouncing ball game created using JS, HTML, CSS. The game consists of a ball bouncing within a rectangular area. The player's goal is to prevent the ball from touching the bottom of the rectangular area.
+This is a simple bouncing ball game created using JavaScript, HTML, CSS. The game consists of a ball bouncing within a rectangular area. The player's goal is to prevent the ball from touching the bottom of the rectangular area.
 
 ## Getting Started
 To play the game, simply open the index.html file in your web browser. The game should start automatically.
