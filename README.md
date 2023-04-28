@@ -16,4 +16,5 @@ Move the rectangular paddle at the bottom of the screen using your mouse or arro
 You can play the game by visiting https://yourusername.github.io/gluttony-game/
 
 ## Display
+![image](https://user-images.githubusercontent.com/90535397/235044509-7ab478c7-14cd-4e59-9140-14722f05c636.png)
 
